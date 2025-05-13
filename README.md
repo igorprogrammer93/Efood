@@ -66,8 +66,8 @@ O projeto será iniciado em `http://localhost:3000`.
 
 ## ✨ Autor
 
-Desenvolvido por **[Seu Nome Aqui]**.  
-Entre em contato: [seu-email@email.com]
+Desenvolvido por **Igor**.  
+Entre em contato: igormtba@gmail.com
 
 ---
 
